@@ -13,3 +13,7 @@ Se proponen 4 posibles temas:
 4. pagina de alguna inmobiliaria como fotocas y extraer datos de lugar, direccion, m2, características.
 Se decide realizar ptractica sobre la web de SEAIC.
 Se organiza repartición de tareas para esta semana, se prevee hacer entrega provisional para antes del 8 de Abril.
+
+Dia 2 de Abril:
+detecta problemas para realizar webscraping  con la web de SEAIC, ya que no encontramos el link de donde se obtienene los datos, decidimos realizar un estudio parecido pero de niveles ambientales y prediccion de polinizacion, de la web de red de aerobiologia de cataluña:https://lap.uab.cat/aerobiologia/es/ 
+esta redactado el word de la practica, pregunta de la 1 a la 8, esta semana nos centraremos en hacer el codigo de webscraping y csv.
