@@ -17,3 +17,8 @@ Se organiza repartición de tareas para esta semana, se prevee hacer entrega pro
 Dia 2 de Abril:
 detecta problemas para realizar webscraping  con la web de SEAIC, ya que no encontramos el link de donde se obtienene los datos, decidimos realizar un estudio parecido pero de niveles ambientales y prediccion de polinizacion, de la web de red de aerobiologia de cataluña:https://lap.uab.cat/aerobiologia/es/ 
 esta redactado el word de la practica, pregunta de la 1 a la 8, esta semana nos centraremos en hacer el codigo de webscraping y csv.
+
+Día 6-9 Abril:
+ se finaliza el codigo, se modifica el word en base a los cambios realizados, se arregla el formato github y se hace entrega parcial a cada tutor
+
+
