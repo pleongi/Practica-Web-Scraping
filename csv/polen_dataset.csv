@@ -1,22 +1,20 @@
-,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18
-0,Taxones pólenes,Barcelona,Bellaterra,Girona,Lleida,Manresa,Roquetes,Tarragona,Vielha,Planes de Son,,,,,,,,,
-1,Parietaria (Urticaceae),3,A,3,A,3,A,3,A,3,A,3.0,A,3.0,A,1.0,=,1.0,=
-2,Gramíneas (Gramineae (Poaceae)),1,=,1,=,1,=,2,=,1,=,1.0,=,0.0,=,0.0,=,0.0,=
-3,Olivo (Olea),0,=,0,=,0,=,0,=,0,=,0.0,=,0.0,=,0.0,=,0.0,=
-4,Abedul (Betula),1,=,1,=,1,A,1,=,1,=,0.0,=,0.0,=,1.0,A,1.0,A
-5,Arce (Acer),0,=,0,=,1,=,1,=,1,=,0.0,=,0.0,=,0.0,=,0.0,=
-6,Chopo (Populus),1,=,2,=,2,=,2,=,1,=,1.0,=,1.0,=,2.0,=,1.0,=
-7,Cipreses (Cupressaceae),1,=,1,=,1,=,1,=,1,=,1.0,=,1.0,=,1.0,=,1.0,=
-8,Crucíferas (Brasicáceas) (Cruciferae (Brassicaceae)),1,=,1,=,1,=,2,=,1,=,1.0,=,1.0,=,0.0,=,0.0,=
-9,Fresno (Fraxinus),0,=,0,=,1,=,0,=,1,=,0.0,=,0.0,=,1.0,A,1.0,=
-10,Lentisco (Pistacia),1,=,1,=,1,=,1,=,1,=,2.0,=,1.0,=,0.0,=,0.0,=
-11,Llantén (Plantago),1,=,1,=,1,=,1,=,1,=,1.0,=,1.0,=,0.0,=,0.0,=
-12,Mercurial (Mercurialis),1,=,1,=,1,=,1,=,1,=,1.0,=,2.0,=,0.0,=,0.0,=
-13,Moreras (Moraceae totum),2,=,2,=,2,A,2,=,2,=,2.0,=,2.0,=,0.0,=,0.0,=
-14,Pino (Pinus),3,=,3,=,3,=,2,A,3,=,2.0,=,3.0,=,1.0,=,1.0,=
-15,Plátano (Platanus),4,D,3,D,3,D,3,D,4,=,2.0,=,2.0,=,1.0,=,1.0,=
-16,Roble/Encina (Quercus Totum),4,=,4,=,4,=,2,A,4,=,2.0,A,3.0,A,1.0,A,1.0,A
-17,Sauce (Salix),1,=,1,=,1,=,1,=,1,=,1.0,=,1.0,=,1.0,=,2.0,=
-18,Taxones esporas hongos,,,,,,,,,,,,,,,,,,
-19,Alternaria (Alternaria),1,=,1,=,1,=,2,=,1,=,1.0,=,1.0,=,0.0,=,0.0,=
-20,Cladosporium (Cladosporium),1,=,1,=,1,=,2,=,1,=,1.0,=,1.0,=,1.0,=,1.0,=
+,Barcelona,Barcelona,Bellaterra,Bellaterra,Girona,Girona,Lleida,Lleida,Manresa,Manresa,Roquetes,Roquetes,Tarragona,Tarragona,Vielha,Vielha,Planes de Son,Planes de Son
+Parietaria (Urticaceae),3,A,3,A,3,A,3,A,3,A,3.0,A,3.0,A,1.0,=,1.0,=
+Gramíneas (Gramineae (Poaceae)),1,=,1,=,1,=,2,=,1,=,1.0,=,0.0,=,0.0,=,0.0,=
+Olivo (Olea),0,=,0,=,0,=,0,=,0,=,0.0,=,0.0,=,0.0,=,0.0,=
+Abedul (Betula),1,=,1,=,1,A,1,=,1,=,0.0,=,0.0,=,1.0,A,1.0,A
+Arce (Acer),0,=,0,=,1,=,1,=,1,=,0.0,=,0.0,=,0.0,=,0.0,=
+Chopo (Populus),1,=,2,=,2,=,2,=,1,=,1.0,=,1.0,=,2.0,=,1.0,=
+Cipreses (Cupressaceae),1,=,1,=,1,=,1,=,1,=,1.0,=,1.0,=,1.0,=,1.0,=
+Crucíferas (Brasicáceas) (Cruciferae (Brassicaceae)),1,=,1,=,1,=,2,=,1,=,1.0,=,1.0,=,0.0,=,0.0,=
+Fresno (Fraxinus),0,=,0,=,1,=,0,=,1,=,0.0,=,0.0,=,1.0,A,1.0,=
+Lentisco (Pistacia),1,=,1,=,1,=,1,=,1,=,2.0,=,1.0,=,0.0,=,0.0,=
+Llantén (Plantago),1,=,1,=,1,=,1,=,1,=,1.0,=,1.0,=,0.0,=,0.0,=
+Mercurial (Mercurialis),1,=,1,=,1,=,1,=,1,=,1.0,=,2.0,=,0.0,=,0.0,=
+Moreras (Moraceae totum),2,=,2,=,2,A,2,=,2,=,2.0,=,2.0,=,0.0,=,0.0,=
+Pino (Pinus),3,=,3,=,3,=,2,A,3,=,2.0,=,3.0,=,1.0,=,1.0,=
+Plátano (Platanus),4,D,3,D,3,D,3,D,4,=,2.0,=,2.0,=,1.0,=,1.0,=
+Roble/Encina (Quercus Totum),4,=,4,=,4,=,2,A,4,=,2.0,A,3.0,A,1.0,A,1.0,A
+Sauce (Salix),1,=,1,=,1,=,1,=,1,=,1.0,=,1.0,=,1.0,=,2.0,=
+Alternaria (Alternaria),1,=,1,=,1,=,2,=,1,=,1.0,=,1.0,=,0.0,=,0.0,=
+Cladosporium (Cladosporium),1,=,1,=,1,=,2,=,1,=,1.0,=,1.0,=,1.0,=,1.0,=
