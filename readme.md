@@ -19,7 +19,6 @@ La actividad ha sido realizada de forma grupal por:
 ### **Dataset:**
 * **csv/polen_dataset.csv**: fichero con el dataset final.
 
-### **Acta de contactos y seguimiento de la practica**
 
  
 
